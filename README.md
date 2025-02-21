@@ -8,7 +8,7 @@ In order to run the project:
 - Once you are inside the folder, open the project with VS-Code.
 - Open a new terminal in VS-Code.
 - now type: "npm install" and press enter in the terminal.
-- after the the sccessful operation of this command, type "npm run dev" and press enter.
+- after the the successful operation of this command, type "npm run dev" and press enter.
 - now your project is running successfully. To see the project visually, go to browser and type the url: http://localhost:3000/
 
 * NOTE:
